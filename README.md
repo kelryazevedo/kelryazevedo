@@ -122,7 +122,7 @@ Package tracking platform.
 
 [![BR Checklist](https://img.shields.io/badge/BR-CheckList-0175C2?style=flat&logo=flutter&logoColor=white)](https://apps.apple.com/br/app/brchecklist/id1624960123)
 [![BR Check](https://img.shields.io/badge/BR-Check-0175C2?style=flat&logo=flutter&logoColor=white)](https://apps.apple.com/br/app/brcheck/id1549270780)
-[![Delivery Client](https://img.shields.io/badge/BR-Check-0175C2?style=flat&logo=flutter&logoColor=white)](https://apps.apple.com/br/app/delivery-client/id1545441007)
+[![Delivery Client](https://img.shields.io/badge/Delivery-Client-0175C2?style=flat&logo=flutter&logoColor=white)](https://apps.apple.com/br/app/delivery-client/id1545441007)
 
 ---
 
