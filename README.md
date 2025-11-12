@@ -5,11 +5,19 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
-After graduating in Computer Science in 2018, I’ve been on a journey of continuous learning and growth — both technically and personally. I’m passionate about creating impactful software and contributing to projects that go beyond code, especially those that help people who didn’t have the same opportunities I had.
+After graduating in Computer Science in 2018, I’ve been on a journey of continuous learning and growth both technically and personally. I’m passionate about creating impactful software and contributing to projects that go beyond code, especially those that help people who didn’t have the same opportunities I had.
 
 I currently work at **Critical TechWorks (BMW Group)**, contributing to high-scale Flutter applications used globally.
+
+---
+
+## 🧘🏽‍♀️Who I Am: 
+
+I’m a calm, curious, and open-minded person with an adventurous spirit and a passion for exploring new experiences, whether through traveling, discovering new cultures, or taking on personal challenges. I value balance and well-being, keeping an active lifestyle, and enjoying hobbies like playing guitar, cooking, and reading mystery novels.
+I truly enjoy meaningful conversations and deep reflections on different topics, which helps me connect with people easily and think critically about the world around me. I’m known for my positive energy, empathy, and sense of humor, which I bring into both my personal and professional environments.
+I believe in living a simple, fulfilling life focusing on genuine connections, continuous learning, and memorable experiences.
 
 ---
 
